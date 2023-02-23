@@ -23,15 +23,15 @@ config.ini should look like this.
 
 ## Launch the app
 
-  Usage: GrouveeImageDownloader run [options] [file_path]
-  Options:
-    --grouveeExport <name>     Path to your Grouvee export csv file.
-    --screenshot               Download screenshot. (only IGDB)
-    --cover                    Download game cover.
-    --shelf <name>             The name of the shelf to use. Default is "Played".
-    --igdb                     Download from IGDB. You can use both igdb and giantbomb at the same time.
-    --giantbomb                Download from GiantBomb. You can use both igdb and giantbomb at the same time.
-    --help                     Display this help message.
+      Usage: GrouveeImageDownloader run [options] [file_path]
+      Options:
+        --grouveeExport <name>     Path to your Grouvee export csv file.
+        --screenshot               Download screenshot. (only IGDB)
+        --cover                    Download game cover.
+        --shelf <name>             The name of the shelf to use. Default is "Played".
+        --igdb                     Download from IGDB. You can use both igdb and giantbomb at the same time.
+        --giantbomb                Download from GiantBomb. You can use both igdb and giantbomb at the same time.
+        --help                     Display this help message.
 
   Example:
   
