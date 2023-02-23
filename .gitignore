@@ -39,3 +39,4 @@ msbuild.wrn
 *.ini
 *.csv
 /images*
+/screenshots*
